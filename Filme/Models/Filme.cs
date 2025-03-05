@@ -1,5 +1,3 @@
-using System.Reflection;
-
 namespace Alura.Filmes;
 class Filme
 {
